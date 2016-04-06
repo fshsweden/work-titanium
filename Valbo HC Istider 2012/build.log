@@ -1,0 +1,14 @@
+Logfile initialized
+[INFO] logfile = /Users/peterandersson/Documents/Titanium Studio Workspace/Valbo HC Istider 2012/build.log
+[DEBUG] /Library/Application Support/Titanium/mobilesdk/osx/3.0.0.GA/android/builder.py simulator Valbo HC Istider 2012 /Users/peterandersson/android-sdk /Users/peterandersson/Documents/Titanium Studio Workspace/Valbo HC Istider 2012 com.fsh.vchistider2012 8 WVGA854 
+[INFO] Building Valbo HC Istider 2012 for Android ... one moment
+[INFO] Titanium SDK version: 3.0.0 (12/12/12 18:49 a5894b3)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[ERROR] Timed out waiting for emulator to be ready, you may need to close the emulator and try again
+[INFO] Android Emulator has exited
